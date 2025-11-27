@@ -11,6 +11,9 @@ This project served as a comprehensive evaluation demonstrating proficiency in g
 ## Controles
 
 left: left arrow
+
 droit: right arrow
+
 haut: up arrow
+
 bas: down arrow (you can't press any other arrow for it to work)
